@@ -1,0 +1,2 @@
+nodemon BACKEND 
+// to launch the app
