@@ -22,8 +22,8 @@ Welcome to the FullStack Social Media App GitHub repository! This comprehensive 
 
 ## Getting Started
 
-1. **Clone the Repository:** `git clone https://github.com/your-username/social-media-app.git`
-2. **Navigate to the Directory:** `cd social-media-app`
+1. **Clone the Repository:** `git clone https://github.com/RaedNefzi98/KONNECT.git`
+2. **Navigate to the Directory:** `cd your_folder`
 3. **Install Dependencies:** `npm install`
 4. **Configure Environment:** Set up environment variables, including MongoDB connection details and JWT secret.
 5. **Start the Development Server:** `npm start`
